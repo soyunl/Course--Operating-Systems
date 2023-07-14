@@ -2,7 +2,7 @@
 Completed projects from Operating Systems course. Further information about the course can be found [here](https://heat.csc.uvic.ca/coview/course/2022091/CSC360)
 
 <h2>Projects</h2>
----
+
 <h3>p1: Process Manager</h3>
 How to compile and run:
 ```bash
