@@ -4,7 +4,7 @@ Completed projects from Operating Systems course. Further information about the 
 <h2>Projects</h2>
 
 <h3>p1: Process Manager</h3>
-How to compile and run:
+How to compile and run:<br>
 ```bash
 $ gcc test.c -o test
 $ ./test
